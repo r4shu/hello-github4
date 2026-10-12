@@ -1,2 +1,3 @@
 x= 10
-print(x)
+b=4
+print(b)
